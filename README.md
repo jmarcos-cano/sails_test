@@ -2,4 +2,4 @@
 
 a [Sails](http://sailsjs.org) application
 
-yes
+yes no
